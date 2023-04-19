@@ -1,0 +1,8 @@
+streamlit
+datetime
+prophet
+prophet.plot
+plotly
+streamlit_option_menu 
+pandas
+yfinance 
